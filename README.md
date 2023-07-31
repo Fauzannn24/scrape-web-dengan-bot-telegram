@@ -6,13 +6,13 @@ Membuat bot Telegram untuk melakukan scraping web melibatkan beberapa langkah. D
    -Pastikan Anda memiliki akun Telegram.
    -Buat bot baru dengan menghubungi "BotFather" di Telegram dan ikuti instruksinya untuk membuat bot baru. Anda akan mendapatkan token akses yang diperlukan
     untuk berkomunikasi dengan API bot.
-2. Persiapkan Lingkungan:
+3. Persiapkan Lingkungan:
    -Pastikan Anda memiliki Python dan beberapa pustaka pendukung terinstal di komputer Anda. Anda dapat menggunakan pustaka seperti "requests, BeautifulSoup,
     dan python-telegram-bot (wrapper API untuk Telegram Bot API)" untuk proyek ini.
-3. Scraping Web:
+4. Scraping Web:
    -Tulis skrip Python untuk melakukan scraping web. Anda bisa menggunakan pustaka seperti "requests" untuk mengunduh halaman web dan "BeautifulSoup" untuk
     memparse HTML dan mengekstrak data yang Anda inginkan.
-4. Bot Telegram:
+5. Bot Telegram:
    -Gunakan pustaka "python-telegram-bot" untuk membuat bot Telegram Anda. Anda akan menggunakan token bot yang Anda dapatkan dari "BotFather" untuk mengakses
     API bot Telegram.
 
