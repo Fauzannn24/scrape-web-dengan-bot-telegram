@@ -1,5 +1,6 @@
 # scrap-web-dengan-bot-telegram
 Silahkan dikembangkan sendiri
+
 Membuat bot Telegram untuk melakukan scraping web melibatkan beberapa langkah. Di bawah ini adalah langkah-langkah umum yang dapat Anda ikuti untuk membuat bot seperti itu:
 1. Persiapkan Bot Telegram:
    -Pastikan Anda memiliki akun Telegram.
