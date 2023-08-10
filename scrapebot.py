@@ -14,7 +14,7 @@ def scrape_eproc(update, context):
         title = item.find('h3',class_="post__title").text.strip()
         date = item.find('div',class_="post__date").text.strip()
         description = item.find("p").text.strip()
-        link = item.find("a")["href"]
+        link = item.find('a',class_="button more-link")["href"]
         pembuka = 'Automated Message...'
         penutup = 'Pesan ini dikirim oleh sistem secara otomatis dari website https://plniconplus.co.id/e-proc/,\nDemikian informasi ini disampaikan semoga bermanfaat.\nTerimakasih'
 
